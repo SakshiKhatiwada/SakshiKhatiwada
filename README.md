@@ -1,8 +1,6 @@
 # My Intro Repo
 
 Welcome to my introduction repository! This repo serves as an overview of my journey, the projects I’ve worked on, and the skills I’ve learned. It’s a place to showcase my progress as I continue learning and developing in frontend development and other areas.
-
- ![Intro Image](./intro-image.gif)
  
 ## Table of Contents
 - [About Me](#about-me)
