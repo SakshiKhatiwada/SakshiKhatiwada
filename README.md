@@ -42,6 +42,6 @@ Each project showcases different aspects of my learning journey and is still a w
 📫 [Email Me](mailto:sakshikhatiwada37@gmail.com)
 📥 [LinkedIn](https://www.linkedin.com/in/sakshi-khatiwada/)
 
-P.S. Besides tech, if you want to explore more about my other side, check out my YouTube channel😉: [My YouTube](https://www.youtube.com/@HariSakshi_Khatiwada)
+P.S. Besides tech, if you want to explore more about my other side, check out my YouTube channel😉: [My YouTube](https://www.youtube.com/@KhatiwadaSir)
 
 Thank You for visiting here! <3
