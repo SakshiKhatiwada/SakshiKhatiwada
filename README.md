@@ -33,6 +33,7 @@ In this repository, you'll find a variety of projects that reflect my growth in 
 
 ## Projects
 
+-  **AI-powered Academic Support System**: Developed an AI system that generates concise, structured notes for university syllabus topics using RAG pipelines over reference textbooks and academic resources; Techs used: Python, Langchain, FastAPI
 - **PEARL: Personalized Emotion-Aware Retrieval-Augmented Chatbot**: Built a team-based intelligent AI-powered Mental Health ChatBot under a fellowship, supporting general chat, crisis handling, and mental health assistance; Techs Used: Python, Langchain, FastAPI
 - **Spam Email Classifier**: Built a spam detection model for text classification; Achieved 97% accuracy and 100% precision using Bernoullis Naive Bayes Model; Techs Used: Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 - **Movie Recommender System**: Movie Recommender System using Content-Based Filtering and Cosine Similarity; Techs Used: Python, Jupyter Notebook, Streamlit
